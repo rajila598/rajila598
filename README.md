@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Rajila Sthapit
+Hi, I am Rajila Sthapit, an enthusiastic Full Stack Developer.
 
 
 ## 🌐 Socials:
